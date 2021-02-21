@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/polde/ws/jetracer_cpp/build/src/teleop",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/teleop.dir/src/teleop.cpp.o -c /home/polde/ws/jetracer_cpp/src/teleop/src/teleop.cpp",
+  "file": "/home/polde/ws/jetracer_cpp/src/teleop/src/teleop.cpp"
+},
+{
+  "directory": "/home/polde/ws/jetracer_cpp/build/src/teleop",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/teleop.dir/src/example_teleop.cpp.o -c /home/polde/ws/jetracer_cpp/src/teleop/src/example_teleop.cpp",
+  "file": "/home/polde/ws/jetracer_cpp/src/teleop/src/example_teleop.cpp"
+}
+]

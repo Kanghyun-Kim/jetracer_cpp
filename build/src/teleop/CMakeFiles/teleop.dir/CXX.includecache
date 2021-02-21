@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/polde/ws/jetracer_cpp/src/teleop/src/example_teleop.cpp
+iostream
+-
+string
+-
+teleop.h
+/home/polde/ws/jetracer_cpp/src/teleop/src/teleop.h
+
+/home/polde/ws/jetracer_cpp/src/teleop/src/teleop.cpp
+teleop.h
+/home/polde/ws/jetracer_cpp/src/teleop/src/teleop.h
+fcntl.h
+-
+unistd.h
+/home/polde/ws/jetracer_cpp/src/teleop/src/unistd.h
+
+/home/polde/ws/jetracer_cpp/src/teleop/src/teleop.h
+iostream
+-
+
